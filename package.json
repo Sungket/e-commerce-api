@@ -1,0 +1,14 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "An API to process orders. One of my portfolio apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sungket Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
